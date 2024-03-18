@@ -64,6 +64,9 @@ table
 {
     margin-left: 20px;
 }
+thead{
+    text-align: center;
+}
 
 table, table th, table td
 {
