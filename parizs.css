@@ -12,10 +12,15 @@ body {
     margin-bottom: 30px;
     margin-top: 0px;
 }
-
+#fejlec{
+    background-image: url(notredame.jpg);
+    height: 200px;
+}
 h1 {
     padding-top: 30px;
     margin-top: 0px;
+    text-align: center;
+    font-size: 48px;
 }
 
 #latnivalok {
